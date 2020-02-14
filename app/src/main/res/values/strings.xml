@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">try</string>
+    <string-array name="title_story">
+        <item>Chase Rainbows</item>
+        <item>Cutting-Edge</item>
+        <item>Early Bird</item>
+    </string-array>
+    <string-array name="details_story">
+        <item>To pursue unrealistic goals</item>
+        <item>Very novel innovative</item>
+        <item>Someone who gets up early</item>
+    </string-array>
+    <string-array name="title_story2">
+        <item>Albert Einstein</item>
+        <item>C.V.Raman</item>
+        <item>Marie Curie</item>
+    </string-array>
+    <string-array name="details_story2">
+        <item>He was a German physicist</item>
+        <item>He was an Indian physicist</item>
+        <item>Se was a Polish physicist</item>
+    </string-array>
+</resources>
